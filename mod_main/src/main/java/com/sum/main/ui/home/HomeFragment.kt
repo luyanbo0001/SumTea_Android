@@ -17,6 +17,7 @@ import com.sum.common.provider.SearchServiceProvider
 import com.sum.framework.adapter.ViewPage2FragmentAdapter
 import com.sum.framework.base.BaseMvvmFragment
 import com.sum.framework.ext.gone
+import com.sum.framework.ext.invisible
 import com.sum.framework.ext.onClick
 import com.sum.framework.ext.visible
 import com.sum.framework.utils.getStringFromResource

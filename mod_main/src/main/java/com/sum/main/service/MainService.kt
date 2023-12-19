@@ -25,7 +25,7 @@ class MainService : IMainService {
     }
 
     /**
-     * 跳转主页
+     * 跳转详情页
      * @param context
      * @param url
      * @param title 标题
